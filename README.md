@@ -1,9 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello World, I'm Alex Victor <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<!--
-**AlexVictorB/AlexVictorB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h3 align="center">
+                   PT-BR - Bem-vindo à minha página no GitHub, sou um estudante de análise e desenvolvimento de sistemas. Atualmente estudando Python, JavaScript, HTML e CSS.
+                    Na minha página você pode encontrar alguns projetos criados por mim.
+</h3>
+<h3 align="center">
+                   EN - Welcome to my page on GitHub, i am a analysis and systems development student. Currently studying Python, JavaScript, HTML and CSS. 
+                    On my page you have can find some projects created by me.
+</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
