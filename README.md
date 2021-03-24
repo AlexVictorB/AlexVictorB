@@ -10,7 +10,7 @@
 </h3>
 
   <h5 align="center">PT-BR - Algumas tecnologias que utilizo</h5>
-  <h5 align="center">EN - Some technology's i'm use</h5>
+  <h5 align="center">EN - Some technologies I use</h5>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python 3"  width="40" height="40"/>
