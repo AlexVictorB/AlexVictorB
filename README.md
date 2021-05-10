@@ -16,6 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python 3"  width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML 5"  width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/AlexVictorB/icons/main/javascript.svg" alt="JavaScriptL"  width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"  width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/AlexVictorB/icons/main/027-php.svg" alt="PHP"  width="40" height="40"/>
   
