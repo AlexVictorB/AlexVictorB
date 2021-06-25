@@ -1,12 +1,12 @@
 <h1 align="center">Hello World, I'm Alex Victor <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <h3 align="center">
-                   PT-BR - Bem-vindo à minha página no GitHub, sou um estudante de análise e desenvolvimento de sistemas. Atualmente estudando Python, JavaScript, HTML, CSS e PHP.
-                    Na minha página você pode encontrar alguns projetos criados por mim.
+                   PT-BR Bem-vindo à minha página no GitHub, sou um estudante de análise e desenvolvimento de sistemas. Atualmente estudando Python, JavaScript, HTML, CSS e PHP.
+                   Na minha página você pode encontrar projetos de codigo desenvolvidos por mim, além de alguns projetos de design que faço por hobbie.
 </h3>
 <h3 align="center">
-                   EN - Welcome to my page on GitHub, i am a analysis and systems development student. Currently studying Python, JavaScript, HTML, CSS and PHP. 
-                    On my page you have can find some projects created by me.
+                   EN - Welcome to my page on GitHub, I am a student of systems analysis and development. Currently studying Python, JavaScript, HTML, CSS and PHP.
+                   On my page you can find code projects developed by me, in addition to some design projects I do as a hobby.
 </h3>
 
   <h5 align="center">PT-BR - Algumas tecnologias que utilizo</h5>
